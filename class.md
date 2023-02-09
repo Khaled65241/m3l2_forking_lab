@@ -1,2 +1,2 @@
-Khaled
-computer science engineering
+khaled
+computer science
